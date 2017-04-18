@@ -1,6 +1,6 @@
-### Prototype/ project idea for presenting cetralized Indoor-Information
+### Prototype/ project idea for presenting centralized Indoor-Information
 
-The idea is to create an Indoor-Information System for the SUB Göttingen (https://www.sub.uni-goettingen.de/sub-aktuell/) for providing centralized location information to the users.
+The idea is to create an Indoor-Information System for the SUB Göttingen (https://www.sub.uni-goettingen.de/sub-aktuell/) for providing centralized location-based information to the users.
 
 ### See the prototype:
 * Download Zip-folder or clone the project repository.
