@@ -2,6 +2,24 @@
 
 The idea is to create an Indoor-Information System for the SUB Göttingen (https://www.sub.uni-goettingen.de/sub-aktuell/) for providing centralized location information to the users.
 
+### See the prototype:
+* Download Zip-folder or clone the project repository.
+* Open index.html with your browser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Prototype is based on the BootLeaf Template (see below)
 
 ### Major changes are:
